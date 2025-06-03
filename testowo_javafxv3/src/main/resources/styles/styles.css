@@ -1,0 +1,99 @@
+.slider .track {
+    -fx-background-color: #606060; /* Kolor paska */
+    -fx-pref-height: 50; /* Grubość paska */
+    -fx-background-insets: 0; /* Usunięcie marginesów */
+    -fx-padding: 0;
+    -fx-border-insets: 0;
+}
+
+.slider .thumb {
+    -fx-background-color: #A0A0A0; /* Kolor uchwytu */
+    -fx-pref-width: 20; /* Szerokość uchwytu */
+    -fx-pref-height: 50; /* Wysokość uchwytu */
+    -fx-shape: "M 0 0 H 10 V 20 H 0 Z"; /* Prostokątny kształt */
+    -fx-background-insets: 0;
+    -fx-border-insets: 0;
+}
+
+.slider {
+    -fx-padding: 0 5 0 5;
+    -fx-pref-width: 100%;
+}
+
+.button {
+    -fx-font-family: 'Minecraftia';
+    -fx-text-fill: white;
+    -fx-background-color: #606060;
+    -fx-font-size: 16px;
+    -fx-padding: 5;
+    -fx-pref-height: 20;
+    -fx-alignment: center;
+    -fx-effect: dropshadow( gaussian , white , 2 , 0.5 , 0, 0 );
+}
+
+.custom-button {
+    -fx-font-family: 'Minecraftia';
+    -fx-text-fill: #f0f0f0;
+    -fx-background-color: #606060;
+    -fx-font-size: 16px;
+    -fx-padding: 5;
+    -fx-pref-height: 20;
+    -fx-alignment: center;
+}
+
+.main-label {
+    -fx-font-family: "Mineraftia";
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-padding: 10;
+}
+
+.volume-label{
+    -fx-font-family:"Minecraftia";
+    -fx-text-fill: white;
+    -fx-background-color: transparent;
+    -fx-font-size: 16px;
+    -fx-padding: 0;
+    -fx-pref-height: 50;
+}
+
+.scroll-pane {
+    -fx-background: transparent;
+    -fx-background-color: transparent;
+    -fx-control-inner-background: transparent;
+    -fx-background-insets: 10;
+}
+
+.scroll-pane .viewport{
+    -fx-background-color:transparent;
+}
+
+.text-green {-fx-text-fill: #00FF00;}
+.text-red {-fx-text-fill: #FF0000;}
+.text-blue {-fx-text-fill: #0000FF;}
+.text-cyan {-fx-text-fill: #00FFFF;}
+.text-white {-fx-text-fill: #FFFFFF;}
+.text-black{-fx-text-fill: #1a1a1a;}
+
+.textfield {
+    -fx-font-family: 'Minecraftia';
+    -fx-text-fill: #DDDDDD;
+    -fx-background-color: #404040;
+    -fx-font-size: 16px;
+    -fx-padding: 5;
+    -fx-min-height: 45;
+    -fx-alignment: center;
+    }
+
+.textfield-gray{
+    -fx-font-family: 'Minecraftia';
+    -fx-text-fill: #404040;
+    -fx-background-color: #202020;
+    -fx-font-size: 16px;
+    -fx-padding: 5;
+    -fx-min-height: 45;
+    -fx-alignment: center;
+}
+
+
+

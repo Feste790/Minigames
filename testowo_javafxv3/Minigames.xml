@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\public\Zastosowanie komponentów\testowo_javafxv3\target\testowo_javafxv3-1.0-SNAPSHOT.jar</jar>
+  <outfile>C:\public\Zastosowanie komponentów\testowo_javafxv3\Minigames.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\public\Zastosowanie komponentów\testowo_javafxv3\image.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>21</minVersion>
+    <maxVersion></maxVersion>
+    <opt>--module-path &quot;C:\public\Zastosowanie komponentów\testowo_javafxv3\libs;C:\public\Zastosowanie komponentów\testowo_javafxv3\target\libs&quot; --add-modules javafx.controls,javafx.graphics,javafx.media,org.example.animatedbackgroundcomp</opt>
+  </jre>
+</launch4jConfig>

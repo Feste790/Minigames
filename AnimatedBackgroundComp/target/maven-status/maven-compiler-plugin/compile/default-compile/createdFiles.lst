@@ -1,0 +1,5 @@
+module-info.class
+org\example\animatedbackgroundcomp\AnimationConfig.class
+org\example\animatedbackgroundcomp\Main.class
+org\example\animatedbackgroundcomp\AnimatedBackground.class
+org\example\animatedbackgroundcomp\AnimatedSnake.class

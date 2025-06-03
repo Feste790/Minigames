@@ -1,0 +1,9 @@
+snakeColor=255,255,0
+appleColor=255,0,0
+backgroundColor=0,0,0
+obstacleColor=128,128,128
+difficulty=Easy
+delay=140
+dotSize=20
+boardWidth=600
+boardHeight=600

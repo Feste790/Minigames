@@ -1,0 +1,9 @@
+Player1 | Difficulty: Hard | Score: 15
+Player1 | Difficulty: Hard | Score: 5
+Player1 | Difficulty: Hard | Score: 2
+Player1 | Difficulty: Hard | Score: 1
+Player1 | Difficulty: Hard | Score: 0
+Player1 | Difficulty: Hard | Score: 0
+Player1 | Difficulty: Hard | Score: 1
+Player1 | Difficulty: Easy | Score: 5
+Player1 | Difficulty: Easy | Score: 4
